@@ -1,0 +1,51 @@
+header img h1{
+	margin:0 auto ;
+	text-align: center;
+}
+header p{
+	font-family: 'Roboto Condensed', sans-serif;
+	border-top: solid;
+	border-bottom: solid;
+	text-align: center;
+
+}
+.container{
+    font-family: 'Montserrat', sans-serif;
+	display:inline-block;
+	padding: 20px; 
+	width: 20%;
+	text-align: center;
+	display: table-cell;
+	list-style-type: none;
+}
+body{
+	display:inline-block; 
+	text-align: center;
+	width: 100%;
+}
+
+nav a{
+	text-decoration: none;
+	color :black;
+}
+nav i{
+	color :grey;
+}
+footer{
+	text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+footer h2{
+	display:inline-block;
+}
+footer p{
+	color :grey;
+	display:inline-block;
+}
+footer i {
+	color :red;
+}
+footer a {
+ 	text-decoration: none;
+ 	color:black;
+}
